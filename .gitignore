@@ -1,0 +1,7 @@
+## Directory-based project format:
+.idea/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+node_modules/
